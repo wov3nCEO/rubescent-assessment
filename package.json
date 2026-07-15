@@ -1,0 +1,12 @@
+{
+  "name": "rubescent-assessment",
+  "version": "1.0.0",
+  "description": "Five-Domain Diagnostic Assessment Tool",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'no build needed'"
+  },
+  "dependencies": {
+    "resend": "^3.0.0"
+  }
+}
